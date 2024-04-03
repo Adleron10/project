@@ -1,0 +1,6 @@
+1. draw a circle
+2. move scope and sight at the same time
+3. make a bullet firing animation
+4. make muzzle flash
+5. make dent in target where bullet hit
+6. make sound?
